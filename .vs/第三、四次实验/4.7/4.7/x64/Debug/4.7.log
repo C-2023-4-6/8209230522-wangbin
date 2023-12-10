@@ -1,0 +1,5 @@
+﻿  4.7.cpp
+D:\source\repos\.vs\4.7\4.7\4.7.cpp(7,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\source\repos\.vs\4.7\4.7\4.7.cpp(8,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\source\repos\.vs\4.7\4.7\4.7.cpp(43): warning C4715: “indexof”: 不是所有的控件路径都返回值
+  4.7.vcxproj -> D:\source\repos\.vs\4.7\x64\Debug\4.7.exe

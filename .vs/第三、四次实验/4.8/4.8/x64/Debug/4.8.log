@@ -1,0 +1,5 @@
+﻿  4.8.cpp
+D:\source\repos\.vs\4.8\4.8\4.8.cpp(8,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\source\repos\.vs\4.8\4.8\4.8.cpp(14,14): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\source\repos\.vs\4.8\4.8\4.8.cpp(20,22): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  4.8.vcxproj -> D:\source\repos\.vs\4.8\x64\Debug\4.8.exe
